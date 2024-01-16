@@ -1,6 +1,6 @@
-ini adalah code back end user , dimana user bisa menambahkan,mencari dan menghapus contact/address yang tersimpan. 
+ini adalah code back-end user , dimana user bisa menambahkan,mencari dan menghapus contact/address yang tersimpan. 
 
-dengan bahasa pemrograman javascript , nodjes dan library express untuk menghubungkan restfull api ke sisi front-end.
+dengan bahasa pemrograman javascript , NodeJs dan library ExpressJs untuk menghubungkan restfull api ke sisi front-end.
 penyimpanan menggunakan mysql di bantu oleh library prisma.
 untuk validation di code ini menggunakan library dari Joi, sehingga tidak rumit untuk membuat validation secara manual.
 user memiliki authorization pada token yang menggunakan library uuid. 
